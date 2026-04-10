@@ -17,7 +17,7 @@
 | 💻 Languages | 🎲 Game Engines | 🎨 Tools  |
 | :--- | :--- | :--- |
 | <img src="https://img.shields.io/badge/C%23-FF69B4?style=for-the-badge&logo=c-sharp&logoColor=white" /> | <img src="https://img.shields.io/badge/Unity-00BFFF?style=for-the-badge&logo=unity&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-FF1493?style=for-the-badge&logo=git&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/C++-1E90FF?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> | <img src="https://img.shields.io/badge/Unreal_Engine-87CEEB?style=for-the-badge&logo=unrealengine&logoColor=white" /> | <img src="https://img.shields.io/badge/Blender-00BFFF?style=for-the-badge&logo=blender&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/C++-1E90FF?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> | <img src="https://img.shields.io/badge/Unreal_Engine-87CEEB?style=for-the-badge&logo=unrealengine&logoColor=white" /> | <img src="https://img.shields.io/badge/Katalon-00BFFF?style=for-the-badge&logo=katalon&logoColor=white" /> |
 | <img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Godot-FF1493?style=for-the-badge&logo=godotengine&logoColor=white" /> | <img src="https://img.shields.io/badge/Aseprite-1E90FF?style=for-the-badge&logo=aseprite&logoColor=white" /> |
 
 ---
