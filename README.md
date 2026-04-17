@@ -1,6 +1,6 @@
 # 🌸 Hello, World! I'm Trần Quốc Tuấn (Twsn)
 
-> *"Turning coffee and complex logic into robust web applications. Aspiring Software Engineer & QA/Tester."*
+> *"Turning coffee and complex logic into robust web applications."*
 
 ---
 
