@@ -25,15 +25,10 @@
 
 ## 📊 Analytics & Activity
 
-<div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranqtuan2206&layout=compact&title_color=00BFFF&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="Most Used Languages" width="50%" />
-</div>
+
 
 ---
 <br>
-<div align="center">
-  <h3><a href="#jump-to-projects"> My Projects</a></h3>
-</div>
-<br>
-
-<div id="jump-to-projects"></div>
+<h3 align="center">  My Projects 👇 </h3>
