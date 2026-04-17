@@ -13,6 +13,8 @@
 
 ## 🛠️ The Development Arsenal
 
+<br>
+
 | 💻 Languages | 🌐 Web & Database | 🎨 Tools |
 | :--- | :--- | :--- |
 | <img src="https://img.shields.io/badge/C%23-FF69B4?style=for-the-badge&logo=c-sharp&logoColor=white" /> | <img src="https://img.shields.io/badge/HTML-1E90FF?style=for-the-badge&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-FF1493?style=for-the-badge&logo=git&logoColor=white" /> |
@@ -28,3 +30,10 @@
 </div>
 
 ---
+<br>
+<div align="center">
+  <h3><a href="#jump-to-projects"> My Projects</a></h3>
+</div>
+<br>
+
+<div id="jump-to-projects"></div>
