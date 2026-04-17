@@ -5,9 +5,9 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎯 **Focus:** Backend Development (C# & .NET Ecosystem) & Quality Assurance (QA).
+- 🎯 **Focus:** Fullstack Development & QA
 - 🚀 **Philosophy:** Write clean, maintainable code and break it before the users do.
-- 💡 **Currently working on:** ⌨️ **MechKeyHub** - A community web platform for mechanical keyboards. Built with **ASP.NET Core 8 MVC** and **SQL Server**, handling everything from database design, custom build configurations, to AJAX integration.
+- 💡 **Currently working on:** ⌨️ **MechKeyHub** - A community web platform for mechanical keyboards. Built with **ASP.NET Core MVC** and **SQL Server**, handling everything from database design, custom build configurations.
 
 ---
 
