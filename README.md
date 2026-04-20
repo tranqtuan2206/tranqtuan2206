@@ -1,11 +1,11 @@
 # 🌸 Hello, World! I'm Trần Quốc Tuấn (Twsn)
 
-> *"Turning coffee and complex logic into robust web applications."*
+> *"Turning coffee, music and complex logic into robust web applications."*
 
 ---
 
 ## 👨‍💻 About Me
-- 🎯 **Focus:** Fullstack Development & QA
+- 🎯 **Focus:** Fullstack Development
 - 🚀 **Philosophy:** Write clean, maintainable code and break it before the users do.
 - 💡 **Currently working on:** ⌨️ **MechKeyHub** - A community web platform for mechanical keyboards. Built with **ASP.NET Core MVC** and **SQL Server**, handling everything from database design, custom build configurations.
 
