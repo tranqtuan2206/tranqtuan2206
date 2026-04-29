@@ -1,6 +1,6 @@
 # 🌸 Hello, World! I'm Trần Quốc Tuấn (Twsn)
 
-> *"Turning coffee, music and complex logic into robust web applications."*
+> *"Turning coffee, music and complex logic into robust products."*
 
 ---
 
