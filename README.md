@@ -26,7 +26,7 @@
 ## 📊 Analytics & Activity
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranqtuan2206&layout=compact&title_color=008FFF&text_color=ffffff&bg_color=0D1117&hide_border=true&langs_count=6" alt="Most Used Languages" width="50%" />
+<img src="https://github-readme-stats-git-master-pranesh-2005.vercel.app/api/top-langs/?username=tranqtuan2206&layout=compact&title_color=008FFF&text_color=ffffff&bg_color=0D1117&hide_border=true" width="50%" />
 
 
 ---
